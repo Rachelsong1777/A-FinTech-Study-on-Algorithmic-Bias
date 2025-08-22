@@ -1,1 +1,1 @@
-# AI-credit-score
+# A-FinTech-Study-on-Algorithmic-Bias
